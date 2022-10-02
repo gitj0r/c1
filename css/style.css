@@ -17,7 +17,6 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    color: black;
     padding-top: 45px;
     padding-left: 8%;
     4 padding-right: 8%;
@@ -352,4 +351,14 @@ li {
 
 .rooster {
     size: 120%;
+}
+
+img {
+    max-width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
