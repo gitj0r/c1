@@ -349,3 +349,7 @@ footer p:nth-child(2) {
 li {
     color: #000;
 }
+
+.rooster {
+    size: 120%;
+}
