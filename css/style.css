@@ -287,6 +287,8 @@ h5 {
     background-color: transparent;
     border: 2px solid #f9004d;
     cursor: pointer;
+    width: auto;
+    height: 600px;
 }
 
 footer {
@@ -346,5 +348,8 @@ footer p:nth-child(2) {
 }
 
 img {
-    size: 55%;
+    width: 250px;
+    height: auto;
 }
+
+.rooster {}
